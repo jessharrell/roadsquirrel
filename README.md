@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/PillarTechnology/RoadSquirrel.png?label=ready&title=Ready)](https://waffle.io/PillarTechnology/RoadSquirrel)
 Road Squirrel
 ===========
 
